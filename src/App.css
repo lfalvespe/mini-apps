@@ -1,0 +1,12 @@
+
+
+
+#menu-icon, #logo {
+    font-size: 3em;
+}
+
+.nav-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
